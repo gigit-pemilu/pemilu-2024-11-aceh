@@ -1,0 +1,10 @@
+# Menu Wilayah
+
+## Link
+
+[PULAU BAGUK](https://github.com/gigit-pemilu/pemilu-2024-11-aceh/tree/main/pilpres/hitung-suara/sub/11-aceh/sub/10-aceh-singkil/sub/01-pulau-banyak/sub/2002-pulau-baguk)
+ | 
+[PULAU BALAI](https://github.com/gigit-pemilu/pemilu-2024-11-aceh/tree/main/pilpres/hitung-suara/sub/11-aceh/sub/10-aceh-singkil/sub/01-pulau-banyak/sub/2001-pulau-balai)
+ | 
+[TELUK NIBUNG](https://github.com/gigit-pemilu/pemilu-2024-11-aceh/tree/main/pilpres/hitung-suara/sub/11-aceh/sub/10-aceh-singkil/sub/01-pulau-banyak/sub/2004-teluk-nibung)
+

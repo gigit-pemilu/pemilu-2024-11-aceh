@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 197
+    bar [197, 28, 1]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 197
+    "2" : 28
+    "3" : 1
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 197   | [197][p-1]  | 87,17      |
+| 2   | PRABOWO GIBRAN | 28    | [28][p-2]   | 12,39      |
+| 3   | GANJAR MAHFUD  | 1     | [1][p-3]    | 0,44       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/11-aceh/sub/71-kota-banda-aceh/sub/02-kuta-alam/sub/2010-lampulo/sub/001-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/11-aceh/sub/71-kota-banda-aceh/sub/02-kuta-alam/sub/2010-lampulo/sub/001-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/11-aceh/sub/71-kota-banda-aceh/sub/02-kuta-alam/sub/2010-lampulo/sub/001-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/d3d2/pemilu/ppwp/11/71/02/20/10/1171022010001-20240214-214425--a8849188-dee0-4d6f-ab88-1528275fe07b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/d3d2/pemilu/ppwp/11/71/02/20/10/1171022010001-20240214-205338--a518206b-2836-4ae3-bdf9-f67653ce7c06.jpg
+
+https://sirekap-obj-formc.kpu.go.id/d3d2/pemilu/ppwp/11/71/02/20/10/1171022010001-20240214-205531--7f39b352-25a1-4d4c-bac9-a9b36a5e52c2.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 22:00:27 |
+
+
+
